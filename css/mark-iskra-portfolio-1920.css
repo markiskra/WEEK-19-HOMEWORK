@@ -1,0 +1,1464 @@
+/* screen - mark-iskra-portfolio-1920 */
+
+.border-3px-azalea {
+    border: 3px solid var(--azalea);
+  }
+  .border-3px-pomegranate {
+    border: 3px solid var(--pomegranate);
+  }
+  .border-3px-white {
+    border: 3px solid var(--white);
+  }
+  .helvetica-bold-azalea-14px {
+    color: var(--azalea);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .helvetica-bold-azalea-16px {
+    color: var(--azalea);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .helvetica-bold-eerie-black-61px {
+    color: var(--eerie-black);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 61px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .helvetica-normal-eerie-black-16px {
+    color: var(--eerie-black);
+    font-family: "Helvetica", Helvetica;
+    font-size: 16px;
+  }
+  .helvetica-regular-normal-white-16px {
+    color: var(--white);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 {
+    background-color: var(--white);
+    height: 100vh;
+    margin: 0px;
+    min-height: 3255px;
+    min-width: 1920px;
+    overflow: hidden;
+    overflow-x: hidden;
+    position: relative;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .about-9tmuuW {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 14px;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    white-space: nowrap;
+    width: 52px;
+  }
+  .mark-iskra-portfolio-1920 .about-ArwrqO {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 61px;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    white-space: nowrap;
+    width: calc(100.00% + 2px);
+  }
+  .mark-iskra-portfolio-1920 .bannercontact2x-C61RwL {
+    background-color: transparent;
+    bottom: calc(20.48% - 10px);
+    height: 47px;
+    left: -90px;
+    object-fit: cover;
+    position: absolute;
+    width: calc(100.00% + 181px);
+  }
+  .mark-iskra-portfolio-1920 .bannerprojects2x-C61RwL {
+    background-color: transparent;
+    height: 47px;
+    left: -199px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(36.16% - 17px);
+    width: calc(100.00% + 399px);
+  }
+  .mark-iskra-portfolio-1920 .bannerskills2x-C61RwL {
+    background-color: transparent;
+    bottom: calc(40.87% - 19px);
+    height: 47px;
+    left: -16px;
+    object-fit: cover;
+    position: absolute;
+    width: calc(100.00% + 31px);
+  }
+  .mark-iskra-portfolio-1920 .challenge-websi-n-miro-adobe-xd-9Mr6xj {
+    background-color: transparent;
+    bottom: 66px;
+    height: 227px;
+    left: 17px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% - 34px);
+  }
+  .mark-iskra-portfolio-1920 .chevron-2x-11x-copy-C61RwL {
+    background-color: transparent;
+    height: 64px;
+    overflow: hidden;
+    position: absolute;
+    right: calc(49.97% - 45px);
+    top: calc(31.28% - 20px);
+    width: 91px;
+  }
+  .mark-iskra-portfolio-1920 .click-to-view-Aq8Dou {
+    background-color: transparent;
+    bottom: calc(39.47% - 7px);
+    height: 18px;
+    letter-spacing: 1.18px;
+    line-height: 16px;
+    position: absolute;
+    right: calc(49.08% - 67px);
+    text-align: left;
+    white-space: nowrap;
+    width: 137px;
+  }
+  .mark-iskra-portfolio-1920 .click-to-view-WP2t3Q {
+    background-color: transparent;
+    bottom: calc(39.47% - 7px);
+    color: var(--pomegranate);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    height: 18px;
+    letter-spacing: 1.18px;
+    line-height: 16px;
+    position: absolute;
+    right: calc(49.08% - 67px);
+    text-align: left;
+    white-space: nowrap;
+    width: 137px;
+  }
+  .mark-iskra-portfolio-1920 .click-to-view-Weu0hL {
+    background-color: transparent;
+    bottom: calc(39.47% - 7px);
+    color: var(--pomegranate);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    height: 18px;
+    letter-spacing: 1.18px;
+    line-height: 16px;
+    position: absolute;
+    right: calc(49.08% - 67px);
+    text-align: left;
+    white-space: nowrap;
+    width: 137px;
+  }
+  .mark-iskra-portfolio-1920 .click-to-view-xFmUcl {
+    background-color: transparent;
+    bottom: calc(39.47% - 7px);
+    height: 18px;
+    letter-spacing: 1.18px;
+    line-height: 16px;
+    position: absolute;
+    right: calc(49.08% - 67px);
+    text-align: left;
+    white-space: nowrap;
+    width: 137px;
+  }
+  .mark-iskra-portfolio-1920 .component-10-1-lvXcn7 {
+    background-color: transparent;
+    bottom: calc(39.29% - 24px);
+    height: 61px;
+    position: absolute;
+    right: 191px;
+    width: 294px;
+  }
+  .mark-iskra-portfolio-1920 .component-11-1-lvXcn7 {
+    background-color: transparent;
+    bottom: calc(39.29% - 24px);
+    height: 61px;
+    left: calc(20.93% - 45px);
+    pointer-events: auto;
+    position: absolute;
+    transition: all 0.2s ease;
+    width: 217px;
+  }
+  .mark-iskra-portfolio-1920 .component-11-1-lvXcn7:hover {
+  
+  transform: scale(1.1);
+  }
+  .mark-iskra-portfolio-1920 .component-12-1-ez0vUI {
+    background-color: var(--eerie-black);
+    bottom: 0px;
+    height: 56px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .component-8-1-lvXcn7 {
+    background-color: transparent;
+    bottom: calc(39.29% - 24px);
+    height: 61px;
+    left: calc(43.46% - 143px);
+    position: absolute;
+    width: 329px;
+  }
+  .mark-iskra-portfolio-1920 .component-9-1-lvXcn7 {
+    background-color: transparent;
+    bottom: calc(39.29% - 24px);
+    height: 61px;
+    position: absolute;
+    right: calc(33.28% - 72px);
+    width: 217px;
+  }
+  .mark-iskra-portfolio-1920 .contact-9tmuuW {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    letter-spacing: 0.00px;
+    line-height: 14px;
+    position: absolute;
+    right: -2px;
+    text-align: left;
+    top: 0px;
+    white-space: nowrap;
+    width: 69px;
+  }
+  .mark-iskra-portfolio-1920 .contact-mLDPhL {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 61px;
+    pointer-events: auto;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    width: calc(100.00% + 2px);
+  }
+  .mark-iskra-portfolio-1920 .contact-mLDPhL:hover {
+  
+  transform: scale(1.1);
+  }
+  .mark-iskra-portfolio-1920 .contactaddress2x-ojnjpf {
+    background-color: transparent;
+    bottom: calc(41.84% - 18px);
+    height: 43px;
+    object-fit: cover;
+    position: absolute;
+    right: calc(30.91% - 13px);
+    width: 43px;
+  }
+  .mark-iskra-portfolio-1920 .contactemail2x-ojnjpf {
+    background-color: transparent;
+    height: 36px;
+    object-fit: cover;
+    position: absolute;
+    right: calc(30.91% - 13px);
+    top: calc(22.83% - 8px);
+    width: 43px;
+  }
+  .mark-iskra-portfolio-1920 .contactphone2x-ojnjpf {
+    background-color: transparent;
+    height: 42px;
+    object-fit: cover;
+    position: absolute;
+    right: calc(31.26% - 7px);
+    top: calc(39.47% - 17px);
+    width: 23px;
+  }
+  .mark-iskra-portfolio-1920 .contacttime2x-ojnjpf {
+    background-color: transparent;
+    bottom: calc(23.75% - 10px);
+    height: 43px;
+    object-fit: cover;
+    position: absolute;
+    right: calc(30.91% - 13px);
+    width: 43px;
+  }
+  .mark-iskra-portfolio-1920 .contactzoom2x-ojnjpf {
+    background-color: transparent;
+    bottom: 29px;
+    height: 37px;
+    object-fit: cover;
+    position: absolute;
+    right: calc(30.91% - 13px);
+    width: 43px;
+  }
+  .mark-iskra-portfolio-1920 .email-os4OsA {
+    background-color: transparent;
+    bottom: calc(23.68% - 4px);
+    height: 18px;
+    left: 13px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: 43px;
+  }
+  .mark-iskra-portfolio-1920 .feel-free-to-co-s-soon-as-i-can-ojnjpf {
+    background-color: transparent;
+    color: var(--azalea);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    height: 48px;
+    left: 0px;
+    letter-spacing: 0.78px;
+    line-height: 26px;
+    position: absolute;
+    text-align: left;
+    top: -2px;
+    white-space: nowrap;
+    width: 650px;
+  }
+  .mark-iskra-portfolio-1920 .graphicprototyping2x-pgnNr8 {
+    background-color: transparent;
+    height: 163px;
+    left: calc(43.06% - 67px);
+    object-fit: cover;
+    position: absolute;
+    top: 33px;
+    width: 156px;
+  }
+  .mark-iskra-portfolio-1920 .graphictools2x-7Ad9WB {
+    background-color: transparent;
+    height: 151px;
+    object-fit: cover;
+    position: absolute;
+    right: calc(48.78% - 86px);
+    top: 41px;
+    width: 177px;
+  }
+  .mark-iskra-portfolio-1920 .graphicuserexperience2x-j2OGPq {
+    background-color: transparent;
+    height: 165px;
+    object-fit: cover;
+    position: absolute;
+    right: calc(40.00% - 72px);
+    top: 29px;
+    width: 180px;
+  }
+  .mark-iskra-portfolio-1920 .graphicwireframing2x-KFWI52 {
+    background-color: transparent;
+    height: 174px;
+    object-fit: cover;
+    position: absolute;
+    right: 31px;
+    top: 36px;
+    width: 200px;
+  }
+  .mark-iskra-portfolio-1920 .group-182-6f45Si {
+    background-color: var(--eerie-black);
+    bottom: 0px;
+    height: 56px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .group-183-wsIxxC {
+    background-color: var(--eerie-black);
+    bottom: 0px;
+    height: 56px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .group-184-9Mr6xj {
+    background-color: var(--eerie-black);
+    bottom: 0px;
+    height: 56px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .group-284-ojnjpf {
+    background-color: var(--eerie-black);
+    bottom: 0px;
+    height: 56px;
+    left: calc(21.66% - 65px);
+    position: absolute;
+    width: 300px;
+  }
+  .mark-iskra-portfolio-1920 .group-285-ojnjpf {
+    background-color: transparent;
+    bottom: calc(25.71% - 14px);
+    height: 56px;
+    left: 0px;
+    position: absolute;
+    width: 647px;
+  }
+  .mark-iskra-portfolio-1920 .group-286-ojnjpf {
+    background-color: transparent;
+    height: 56px;
+    left: 0px;
+    position: absolute;
+    top: calc(48.57% - 27px);
+    width: 647px;
+  }
+  .mark-iskra-portfolio-1920 .group-287-ojnjpf {
+    background-color: transparent;
+    height: 56px;
+    left: 0px;
+    position: absolute;
+    top: calc(22.86% - 13px);
+    width: 647px;
+  }
+  .mark-iskra-portfolio-1920 .group-309-j2OGPq {
+    background-color: var(--azalea);
+    bottom: 3px;
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .group-330-8ch5td {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 300px;
+  }
+  .mark-iskra-portfolio-1920 .group-331-8ch5td {
+    background-color: transparent;
+    height: 100%;
+    left: calc(33.36% - 100px);
+    position: absolute;
+    top: 0px;
+    width: 300px;
+  }
+  .mark-iskra-portfolio-1920 .group-332-8ch5td {
+    background-color: transparent;
+    height: 100%;
+    position: absolute;
+    right: calc(33.36% - 100px);
+    top: 0px;
+    width: 300px;
+  }
+  .mark-iskra-portfolio-1920 .group-333-8ch5td {
+    background-color: transparent;
+    height: 100%;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 300px;
+  }
+  .mark-iskra-portfolio-1920 .group-334-xaIq3K {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .group-335-MdkFjq {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .group-336-mEDE1p {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .group-337-xU6Ceg {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .group-338-C61RwL {
+    background-color: transparent;
+    bottom: 133px;
+    height: 441px;
+    position: absolute;
+    right: calc(49.94% - 550px);
+    width: 1101px;
+  }
+  .mark-iskra-portfolio-1920 .group-368-C61RwL {
+    background-color: transparent;
+    bottom: 18px;
+    height: 14px;
+    left: 42px;
+    position: absolute;
+    width: 754px;
+  }
+  .mark-iskra-portfolio-1920 .group-369-C61RwL {
+    background-color: transparent;
+    bottom: 16px;
+    height: 20px;
+    position: absolute;
+    right: 41px;
+    width: 104px;
+  }
+  .mark-iskra-portfolio-1920 .group-371-C61RwL {
+    background-color: transparent;
+    height: 528px;
+    left: 140px;
+    position: absolute;
+    top: calc(47.27% - 250px);
+    width: calc(100.00% - 280px);
+  }
+  .mark-iskra-portfolio-1920 .group-372-N4njIR {
+    background-color: transparent;
+    height: 100%;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 300px;
+  }
+  .mark-iskra-portfolio-1920 .group-373-N4njIR {
+    background-color: transparent;
+    height: 100%;
+    position: absolute;
+    right: calc(33.36% - 100px);
+    top: 0px;
+    width: 300px;
+  }
+  .mark-iskra-portfolio-1920 .group-374-N4njIR {
+    background-color: transparent;
+    height: 100%;
+    left: calc(33.36% - 100px);
+    position: absolute;
+    top: 0px;
+    width: 300px;
+  }
+  .mark-iskra-portfolio-1920 .group-375-N4njIR {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 300px;
+  }
+  .mark-iskra-portfolio-1920 .group-376-C61RwL {
+    background-color: transparent;
+    bottom: calc(27.87% - 124px);
+    height: 446px;
+    left: 140px;
+    position: absolute;
+    width: calc(100.00% - 280px);
+  }
+  .mark-iskra-portfolio-1920 .group-377-C61RwL {
+    background-color: var(--azalea);
+    height: 117px;
+    left: -181px;
+    position: fixed;
+    top: 0px;
+    width: calc(100.00% + 337px);
+  }
+  .mark-iskra-portfolio-1920 .hello-i-am-mark-is-vital-within-C61RwL {
+    background-color: transparent;
+    color: var(--white);
+    font-family: "Helvetica", Helvetica;
+    font-size: 48px;
+    height: 456px;
+    left: 7.14%;
+    letter-spacing: 0.72px;
+    line-height: 48px;
+    position: absolute;
+    text-align: left;
+    top: 550px;
+    white-space: nowrap;
+    width: 86.46%;
+  }
+  .mark-iskra-portfolio-1920 .herobanner2x-C61RwL {
+    background-color: transparent;
+    height: 274px;
+    left: -181px;
+    object-fit: cover;
+    position: absolute;
+    top: 181px;
+    width: calc(100.00% + 337px);
+  }
+  .mark-iskra-portfolio-1920 .info-ojnjpf {
+    background-color: transparent;
+    color: var(--white);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 700;
+    height: 39px;
+    letter-spacing: 0.00px;
+    line-height: 37px;
+    position: absolute;
+    right: calc(29.10% - 20px);
+    text-align: left;
+    top: 35px;
+    white-space: nowrap;
+    width: 70px;
+  }
+  .mark-iskra-portfolio-1920 .logochallenge2x-9Mr6xj {
+    background-color: transparent;
+    height: 52px;
+    left: 40px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(18.07% - 9px);
+    width: calc(100.00% - 82px);
+  }
+  .mark-iskra-portfolio-1920 .logomarkit2x-6f45Si {
+    background-color: transparent;
+    height: 46px;
+    object-fit: cover;
+    position: absolute;
+    right: 39px;
+    top: calc(18.46% - 8px);
+    width: 209px;
+  }
+  .mark-iskra-portfolio-1920 .logonaa2x-wsIxxC {
+    background-color: transparent;
+    height: 71px;
+    left: 61px;
+    object-fit: cover;
+    position: absolute;
+    top: 76px;
+    width: calc(100.00% - 121px);
+  }
+  .mark-iskra-portfolio-1920 .logotripwise2x-ez0vUI {
+    background-color: transparent;
+    height: 54px;
+    left: 40px;
+    object-fit: cover;
+    position: absolute;
+    top: calc(17.93% - 10px);
+    width: calc(100.00% - 80px);
+  }
+  .mark-iskra-portfolio-1920 .markit-appa-uni-sion-miro-figma-6f45Si {
+    background-color: transparent;
+    bottom: calc(27.69% - 56px);
+    height: 203px;
+    left: 19px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% - 34px);
+  }
+  .mark-iskra-portfolio-1920 .markpauliskragmailcom-ojnjpf {
+    background-color: transparent;
+    height: 18px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    position: absolute;
+    right: 106px;
+    text-align: left;
+    top: calc(24.11% - 4px);
+    white-space: nowrap;
+    width: 198px;
+  }
+  .mark-iskra-portfolio-1920 .message-HiaLNg {
+    background-color: transparent;
+    bottom: calc(23.68% - 4px);
+    height: 18px;
+    left: 13px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: 69px;
+  }
+  .mark-iskra-portfolio-1920 .mimainlogo2x-lvXcn7 {
+    background-color: transparent;
+    bottom: calc(47.73% - 35px);
+    height: 73px;
+    left: 230px;
+    object-fit: cover;
+    pointer-events: auto;
+    position: absolute;
+    transition: all 0.2s ease;
+    width: 55px;
+  }
+  .mark-iskra-portfolio-1920 .mimainlogo2x-lvXcn7:hover {
+  
+  transform: scale(1.1);
+  }
+  .mark-iskra-portfolio-1920 .name-E3CcwM {
+    background-color: transparent;
+    bottom: calc(26.32% - 5px);
+    height: 18px;
+    left: 13px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: 46px;
+  }
+  .mark-iskra-portfolio-1920 .national-archiv-n-miro-adobe-xd-wsIxxC {
+    background-color: transparent;
+    bottom: calc(27.69% - 56px);
+    height: 203px;
+    left: 15px;
+    letter-spacing: -0.29px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% - 34px);
+  }
+  .mark-iskra-portfolio-1920 .projects-9tmuuW {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: calc(32.64% - 25px);
+    letter-spacing: 0.00px;
+    line-height: 14px;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    white-space: nowrap;
+    width: 77px;
+  }
+  .mark-iskra-portfolio-1920 .projects-mHXe1n {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 61px;
+    pointer-events: auto;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    width: calc(100.00% + 2px);
+  }
+  .mark-iskra-portfolio-1920 .projects-mHXe1n:hover {
+  
+  transform: scale(1.1);
+  }
+  .mark-iskra-portfolio-1920 .prototypingcrea-keholders-needs-pgnNr8 {
+    background-color: transparent;
+    bottom: 21px;
+    height: 194px;
+    left: 14px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% - 34px);
+  }
+  .mark-iskra-portfolio-1920 .rectangle-1-C61RwL {
+    background-color: var(--eerie-black);
+    bottom: 0px;
+    height: 2175px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-10-wsIxxC {
+    background-color: var(--white);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-11-wsIxxC {
+    background-color: var(--pomegranate);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-12-9Mr6xj {
+    background-color: var(--azalea);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-13-9Mr6xj {
+    background-color: var(--white);
+    bottom: calc(26.89% - 60px);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-16-E3CcwM {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-2-C61RwL {
+    background-color: var(--pomegranate);
+    bottom: 0px;
+    height: 52px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-20-ez0vUI {
+    background-color: transparent;
+    height: calc(100.00% - 79px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-21-6f45Si {
+    background-color: transparent;
+    height: calc(100.00% - 79px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-22-wsIxxC {
+    background-color: transparent;
+    height: calc(100.00% - 79px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-23-9Mr6xj {
+    background-color: transparent;
+    height: calc(100.00% - 79px);
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-24-wsIxxC {
+    background-color: var(--white);
+    bottom: calc(26.89% - 60px);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-25-ez0vUI {
+    background-color: var(--white);
+    bottom: calc(26.89% - 60px);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-26-C61RwL {
+    background-color: var(--pomegranate);
+    height: 963px;
+    left: -181px;
+    position: absolute;
+    top: 117px;
+    width: calc(100.00% + 337px);
+  }
+  .mark-iskra-portfolio-1920 .rectangle-59-j2OGPq {
+    background-color: var(--white);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-6-ez0vUI {
+    background-color: var(--white);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-60-KFWI52 {
+    background-color: var(--white);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-61-pgnNr8 {
+    background-color: var(--white);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-62-7Ad9WB {
+    background-color: var(--white);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-64-KFWI52 {
+    background-color: var(--azalea);
+    bottom: 3px;
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-65-pgnNr8 {
+    background-color: var(--azalea);
+    bottom: 3px;
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-66-7Ad9WB {
+    background-color: var(--azalea);
+    bottom: 3px;
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-67-j2OGPq {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-68-KFWI52 {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-69-pgnNr8 {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-7-ez0vUI {
+    background-color: var(--pomegranate);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-70-7Ad9WB {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-71-os4OsA {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-72-HiaLNg {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-73-ojnjpf {
+    background-color: var(--pomegranate);
+    height: 100%;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 403px;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-8-6f45Si {
+    background-color: var(--azalea);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-9-6f45Si {
+    background-color: var(--white);
+    bottom: calc(26.89% - 60px);
+    height: 223px;
+    left: 0px;
+    position: absolute;
+    width: 100%;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-90-C61RwL {
+    background-color: var(--pomegranate);
+    height: 117px;
+    left: -181px;
+    position: absolute;
+    top: calc(30.69% - 36px);
+    width: calc(100.00% + 337px);
+  }
+  .mark-iskra-portfolio-1920 .rectangle-91-C61RwL {
+    background-color: var(--pomegranate);
+    height: 117px;
+    position: absolute;
+    right: 0px;
+    top: calc(30.69% - 36px);
+    width: 140px;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-92-C61RwL {
+    background-color: var(--eerie-black);
+    bottom: calc(45.83% - 54px);
+    height: 117px;
+    position: absolute;
+    right: 0px;
+    width: 101px;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-93-C61RwL {
+    background-color: var(--eerie-black);
+    bottom: calc(24.95% - 29px);
+    height: 117px;
+    position: absolute;
+    right: 0px;
+    width: 101px;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-94-C61RwL {
+    background-color: var(--azalea);
+    height: 117px;
+    left: calc(27.38% - 28px);
+    position: absolute;
+    top: 0px;
+    width: 101px;
+  }
+  .mark-iskra-portfolio-1920 .rectangle-95-C61RwL {
+    background-color: var(--azalea);
+    height: 117px;
+    left: 120px;
+    position: absolute;
+    top: 0px;
+    width: 101px;
+  }
+  .mark-iskra-portfolio-1920 .send-cOLROo {
+    background-color: transparent;
+    bottom: calc(39.47% - 7px);
+    height: 18px;
+    letter-spacing: 1.18px;
+    line-height: 16px;
+    position: absolute;
+    right: calc(49.60% - 25px);
+    text-align: left;
+    white-space: nowrap;
+    width: 50px;
+  }
+  .mark-iskra-portfolio-1920 .skills-9tmuuW {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    letter-spacing: 0.00px;
+    line-height: 14px;
+    position: absolute;
+    right: calc(33.62% - 17px);
+    text-align: left;
+    top: 0px;
+    white-space: nowrap;
+    width: 52px;
+  }
+  .mark-iskra-portfolio-1920 .skills-i5TwsK {
+    background-color: transparent;
+    height: calc(100.00% + 2px);
+    left: 0px;
+    letter-spacing: 0.00px;
+    line-height: 61px;
+    pointer-events: auto;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    width: calc(100.00% + 2px);
+  }
+  .mark-iskra-portfolio-1920 .skills-i5TwsK:hover {
+  
+  transform: scale(1.1);
+  }
+  .mark-iskra-portfolio-1920 .socialinsta2x-gNMGaF {
+    background-color: transparent;
+    height: 100%;
+    left: 0px;
+    object-fit: cover;
+    position: absolute;
+    top: 0px;
+    width: 20px;
+  }
+  .mark-iskra-portfolio-1920 .sociallinkedin2x-gNMGaF {
+    background-color: transparent;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 20px;
+  }
+  .mark-iskra-portfolio-1920 .socialtwitter2x-gNMGaF {
+    background-color: transparent;
+    height: 100%;
+    left: calc(50.00% - 12px);
+    object-fit: cover;
+    position: absolute;
+    top: 0px;
+    width: 24px;
+  }
+  .mark-iskra-portfolio-1920 .span0-E1ReWz {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .mark-iskra-portfolio-1920 .span0-RDYoi1 {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .mark-iskra-portfolio-1920 .span0-amrT0G {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .mark-iskra-portfolio-1920 .span0-bdoHKW {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .mark-iskra-portfolio-1920 .span0-eJihcw {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .mark-iskra-portfolio-1920 .span0-kF5Ehk {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .mark-iskra-portfolio-1920 .span0-kR6eEl {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .mark-iskra-portfolio-1920 .span0-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.82px;
+  }
+  .mark-iskra-portfolio-1920 .span0-rOsiCV {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Bold', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .mark-iskra-portfolio-1920 .span1-E1ReWz {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span1-RDYoi1 {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span1-amrT0G {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span1-bdoHKW {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span1-eJihcw {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span1-kF5Ehk {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span1-kR6eEl {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span1-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.29px;
+  }
+  .mark-iskra-portfolio-1920 .span1-rOsiCV {
+    color: rgba(26,24,24,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span10-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.34px;
+  }
+  .mark-iskra-portfolio-1920 .span11-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.14px;
+  }
+  .mark-iskra-portfolio-1920 .span12-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.34px;
+  }
+  .mark-iskra-portfolio-1920 .span13-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.53px;
+  }
+  .mark-iskra-portfolio-1920 .span14-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.00px;
+  }
+  .mark-iskra-portfolio-1920 .span15-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span2-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.53px;
+  }
+  .mark-iskra-portfolio-1920 .span3-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.29px;
+  }
+  .mark-iskra-portfolio-1920 .span4-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.53px;
+  }
+  .mark-iskra-portfolio-1920 .span5-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .mark-iskra-portfolio-1920 .span6-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.48px;
+  }
+  .mark-iskra-portfolio-1920 .span7-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.38px;
+  }
+  .mark-iskra-portfolio-1920 .span8-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.48px;
+  }
+  .mark-iskra-portfolio-1920 .span9-pIadBm {
+    color: rgba(255,255,255,1.0);
+    font-family: 'Helvetica-Regular', Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 1.10px;
+  }
+  .mark-iskra-portfolio-1920 .toolsadobe-phot-miro-in-vision-7Ad9WB {
+    background-color: transparent;
+    bottom: 21px;
+    height: 194px;
+    left: 19px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% - 34px);
+  }
+  .mark-iskra-portfolio-1920 .tripwise-apptri-sion-miro-figma-ez0vUI {
+    background-color: transparent;
+    bottom: calc(27.69% - 56px);
+    height: 203px;
+    left: 17px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% - 34px);
+  }
+  .mark-iskra-portfolio-1920 .user-researchwi-esearch-methods-j2OGPq {
+    background-color: transparent;
+    bottom: 28px;
+    height: 187px;
+    left: 17px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% - 34px);
+  }
+  .mark-iskra-portfolio-1920 .wireframingknow-of-the-concept-KFWI52 {
+    background-color: transparent;
+    bottom: 28px;
+    height: 187px;
+    left: 18px;
+    letter-spacing: 0.00px;
+    line-height: 20px;
+    overflow: hidden;
+    position: absolute;
+    text-align: left;
+    width: calc(100.00% - 39px);
+  }
+  .mark-iskra-portfolio-1920 .x27-banks-street-ojnjpf {
+    background-color: transparent;
+    bottom: calc(41.84% - 8px);
+    height: 18px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    position: absolute;
+    right: calc(18.76% - 23px);
+    text-align: left;
+    white-space: nowrap;
+    width: 120px;
+  }
+  .mark-iskra-portfolio-1920 .x313-311-3615-zoom-id-ojnjpf {
+    background-color: transparent;
+    bottom: 33px;
+    height: 18px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    position: absolute;
+    right: 122px;
+    text-align: left;
+    white-space: nowrap;
+    width: 182px;
+  }
+  .mark-iskra-portfolio-1920 .x61-429-300-300-ojnjpf {
+    background-color: transparent;
+    height: 18px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    position: absolute;
+    right: calc(18.17% - 23px);
+    text-align: left;
+    top: calc(41.13% - 7px);
+    white-space: nowrap;
+    width: 127px;
+  }
+  .mark-iskra-portfolio-1920 .x830-1730-ojnjpf {
+    background-color: transparent;
+    bottom: calc(24.82% - 4px);
+    height: 18px;
+    letter-spacing: 0.32px;
+    line-height: 16px;
+    position: absolute;
+    right: calc(21.09% - 19px);
+    text-align: left;
+    white-space: nowrap;
+    width: 91px;
+  }
+  :root {
+    --azalea: rgba(242,204,221,1.0);
+    --eerie-black: rgba(26,24,24,1.0);
+    --pomegranate: rgba(251,73,39,1.0);
+    --white: rgba(255,255,255,1.0);
+  }
+  
