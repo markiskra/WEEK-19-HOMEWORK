@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/mark-iskra-portfolio-1920.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <style>
+      @font-face {
+        font-family: "Helvetica-Regular";
+        font-style: normal;
+        font-weight: 400;
+          format("truetype");
+      }
+
+      @font-face {
+        font-family: "Helvetica-Bold";
+        font-style: normal;
+        font-weight: 700;
+          format("truetype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="mark-iskra-portfolio-1920" />
+    <div class="mark-iskra-portfolio-1920 screen">
+      <div class="rectangle-94-C61RwL" id="rectangle-94"></div>
+      <div class="rectangle-95-C61RwL" id="rectangle-95"></div>
+      <div class="rectangle-93-C61RwL" id="rectangle-93"></div>
+      <div class="rectangle-92-C61RwL" id="rectangle-92"></div>
+      <div class="rectangle-91-C61RwL" id="rectangle-91"></div>
+      <div class="rectangle-26-C61RwL"></div>
+      <div class="rectangle-90-C61RwL"></div>
+      <img class="herobanner2x-C61RwL" src="img/herobanner-2x@1x.png" />
+      <div class="rectangle-1-C61RwL"></div>
+      <div class="rectangle-2-C61RwL"></div>
+      <div class="group-368-C61RwL">
+        <div class="about-9tmuuW helvetica-bold-azalea-14px">ABOUT</div>
+        <div class="skills-9tmuuW helvetica-bold-azalea-14px">SKILLS</div>
+        <div class="projects-9tmuuW helvetica-bold-azalea-14px">PROJECTS</div>
+        <div class="contact-9tmuuW helvetica-bold-azalea-14px">CONTACT</div>
+      </div>
+      <div class="hello-i-am-mark-is-vital-within-C61RwL">
+        <span class="span0-pIadBm">Hello, I am Mark Iskra, a UX/UI Designer. I have a passion for all things </span
+        ><span class="span1-pIadBm">creative.<br /></span
+        ><span class="span2-pIadBm">I am always seeking knowledge and new ways to improve </span
+        ><span class="span3-pIadBm">myself and surround</span><span class="span4-pIadBm"> <br /></span
+        ><span class="span5-pIadBm">myself with creative influences to learn and evolve as a designer.<br /></span
+        ><span class="span6-pIadBm">Collaboration is vital within my professional approach to work. </span
+        ><span class="span7-pIadBm">Building a strong</span><span class="span8-pIadBm"> <br /></span
+        ><span class="span9-pIadBm"
+          >team culture allows creative work to flourish and nurture strong workplace <br /></span
+        ><span class="span10-pIadBm">relationships. I enjoy fast passed environments, have excellent </span
+        ><span class="span11-pIadBm">communication</span><span class="span12-pIadBm"> <br /></span
+        ><span class="span13-pIadBm"
+          >skills and thrive as a problem solver. Multi-skilled in many aspects of design</span
+        ><span class="span14-pIadBm"> <br /></span
+        ><span class="span15-pIadBm">with a keen eye for detail and trend-based processes.</span>
+      </div>
+      <img class="bannerprojects2x-C61RwL" src="img/bannerprojects-2x@1x.png" />
+      <div class="group-371-C61RwL">
+        <div class="group-330-8ch5td">
+          <div class="component-12-1-ez0vUI border-3px-pomegranate">
+            <div class="click-to-view-WP2t3Q">CLICK TO VIEW</div>
+          </div>
+          <div class="rectangle-6-ez0vUI"></div>
+          <div class="rectangle-7-ez0vUI"></div>
+          <div class="rectangle-25-ez0vUI"></div>
+          <div class="rectangle-20-ez0vUI border-3px-pomegranate"></div>
+          <div class="tripwise-apptri-sion-miro-figma-ez0vUI helvetica-normal-eerie-black-16px">
+            <span class="span0-RDYoi1">TRIPWISE APP<br /></span
+            ><span class="span1-RDYoi1"
+              ><br />Tripwise is a post covid travel app <br />that allows users to access real-time <br />information,
+              get alerts when needed <br />to update them on developments and to be able to contact friends and family
+              with ease. <br /><br />InVision, Miro, Figma.</span
+            >
+          </div>
+          <img class="logotripwise2x-ez0vUI" src="img/logotripwise-2x@1x.png" />
+        </div>
+        <div class="group-331-8ch5td">
+          <div class="group-182-6f45Si border-3px-azalea">
+            <div class="click-to-view-Aq8Dou helvetica-bold-azalea-16px">CLICK TO VIEW</div>
+          </div>
+          <div class="rectangle-8-6f45Si"></div>
+          <div class="rectangle-9-6f45Si"></div>
+          <div class="rectangle-21-6f45Si border-3px-azalea"></div>
+          <div class="markit-appa-uni-sion-miro-figma-6f45Si helvetica-normal-eerie-black-16px">
+            <span class="span0-eJihcw">MARKIT APP<br /></span
+            ><span class="span1-eJihcw"
+              ><br />A unique app creation which allows<br />the user to search for local markets<br />around them. Key
+              features included;<br />location services, market reviews <br />and favorites, search by market type<br />and
+              stall holder booking.<br /><br />InVision, Miro, F</span
+            >
+          </div>
+          <img class="logomarkit2x-6f45Si" src="img/logomarkit-2x@1x.png" />
+        </div>
+        <div class="group-332-8ch5td">
+          <div class="group-183-wsIxxC border-3px-pomegranate">
+            <div class="click-to-view-Weu0hL">CLICK TO VIEW</div>
+          </div>
+          <div class="rectangle-10-wsIxxC"></div>
+          <div class="rectangle-24-wsIxxC"></div>
+          <div class="rectangle-11-wsIxxC"></div>
+          <div class="rectangle-22-wsIxxC border-3px-pomegranate"></div>
+          <div class="national-archiv-n-miro-adobe-xd-wsIxxC helvetica-normal-eerie-black-16px">
+            <span class="span0-kF5Ehk">NATIONAL ARCHIVE OF AUSTRALIA WEBSITE REDESIGN<br /></span
+            ><span class="span1-kF5Ehk"
+              ><br />Showcasing a redesign of the National&nbsp;&nbsp;Archives of Australia website. <br />A team
+              project through research, analysis, ideation, prioritisation and prototyping.<br />
+              <br />InVision, Miro, Adobe XD.</span
+            >
+          </div>
+          <img class="logonaa2x-wsIxxC" src="img/logonaa-2x@1x.png" />
+        </div>
+        <div class="group-333-8ch5td">
+          <div class="group-184-9Mr6xj border-3px-azalea">
+            <div class="click-to-view-xFmUcl helvetica-bold-azalea-16px">CLICK TO VIEW</div>
+          </div>
+          <div class="rectangle-12-9Mr6xj"></div>
+          <div class="rectangle-13-9Mr6xj"></div>
+          <div class="rectangle-23-9Mr6xj border-3px-azalea"></div>
+          <div class="challenge-websi-n-miro-adobe-xd-9Mr6xj helvetica-normal-eerie-black-16px">
+            <span class="span0-rOsiCV">CHALLENGE <br />WEBSITE REDESIGN<br /></span
+            ><span class="span1-rOsiCV"
+              ><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+              et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.<br /><br />InVision, Miro, Adobe XD.</span
+            >
+          </div>
+          <img class="logochallenge2x-9Mr6xj" src="img/logochallenge-2x@1x.png" />
+        </div>
+      </div>
+      <img class="bannerskills2x-C61RwL" src="img/bannerskills-2x@1x.png" />
+      <div class="group-376-C61RwL">
+        <div class="group-375-N4njIR">
+          <div class="group-334-xaIq3K">
+            <div class="rectangle-59-j2OGPq"></div>
+            <div class="group-309-j2OGPq"></div>
+            <div class="user-researchwi-esearch-methods-j2OGPq helvetica-normal-eerie-black-16px">
+              <span class="span0-E1ReWz">USER RESEARCH<br /></span
+              ><span class="span1-E1ReWz"
+                ><br />With a true understanding of what <br />the user wants and how they view <br />the world. Having
+                the ability to plan,<br />conduct and analyze findings from <br />a variety of research methods.</span
+              >
+            </div>
+            <div class="rectangle-67-j2OGPq border-3px-white"></div>
+            <img class="graphicuserexperience2x-j2OGPq" src="img/graphicuserexperience-2x@1x.png" />
+          </div>
+        </div>
+        <div class="group-374-N4njIR">
+          <div class="group-335-MdkFjq">
+            <div class="rectangle-60-KFWI52"></div>
+            <div class="rectangle-64-KFWI52"></div>
+            <div class="wireframingknow-of-the-concept-KFWI52 helvetica-normal-eerie-black-16px">
+              <span class="span0-kR6eEl">WIREFRAMING<br /></span
+              ><span class="span1-kR6eEl"
+                ><br />Knowing how to clearly demonstrate<br />how something works rather than <br />how it
+                looks.Defining the elements <br />that are present from page to page.<br />Showing possible interactions
+                so
+              </span>
+            </div>
+            <div class="rectangle-68-KFWI52 border-3px-white"></div>
+            <img class="graphicwireframing2x-KFWI52" src="img/graphicwireframing-2x@1x.png" />
+          </div>
+        </div>
+        <div class="group-373-N4njIR">
+          <div class="group-336-mEDE1p">
+            <div class="rectangle-61-pgnNr8"></div>
+            <div class="rectangle-65-pgnNr8"></div>
+            <div class="prototypingcrea-keholders-needs-pgnNr8 helvetica-normal-eerie-black-16px">
+              <span class="span0-bdoHKW">PROTOTYPING<br /></span
+              ><span class="span1-bdoHKW"
+                ><br />Creating functional and system<br />matching final products. <br />Which allow the users to test
+                page <br />functionality, user journey and overall <br />navigation. Through successful
+                <br />iterati</span
+              >
+            </div>
+            <div class="rectangle-69-pgnNr8 border-3px-white"></div>
+            <img class="graphicprototyping2x-pgnNr8" src="img/graphicprototyping-2x@1x.png" />
+          </div>
+        </div>
+        <div class="group-372-N4njIR">
+          <div class="group-337-xU6Ceg">
+            <div class="rectangle-62-7Ad9WB"></div>
+            <div class="rectangle-66-7Ad9WB"></div>
+            <div class="toolsadobe-phot-miro-in-vision-7Ad9WB helvetica-normal-eerie-black-16px">
+              <span class="span0-amrT0G">TOOLS<br /></span
+              ><span class="span1-amrT0G"
+                ><br />Adobe Photoshop<br />Adobe Illustrator<br />Adobe InDesign<br />Adobe XD<br />Figma<br />Miro<br />InVision</span
+              >
+            </div>
+            <div class="rectangle-70-7Ad9WB border-3px-white"></div>
+            <img class="graphictools2x-7Ad9WB" src="img/graphictools-2x@1x.png" />
+          </div>
+        </div>
+      </div>
+      <div class="group-369-C61RwL">
+        <img class="sociallinkedin2x-gNMGaF" src="img/sociallinkedin-2x@1x.png" />
+        <img class="socialtwitter2x-gNMGaF" src="img/socialtwitter-2x@1x.png" />
+        <img class="socialinsta2x-gNMGaF" src="img/socialinsta-2x@1x.png" />
+      </div>
+      <div class="group-338-C61RwL">
+        <div class="feel-free-to-co-s-soon-as-i-can-ojnjpf">
+          Feel free to contact me any time, I would love to hear from you.<br />I will get back to you as soon as I can.
+        </div>
+        <div class="group-284-ojnjpf border-3px-azalea">
+          <div class="send-cOLROo helvetica-bold-azalea-16px">SEND</div>
+        </div>
+        <div class="group-287-ojnjpf">
+          <div class="name-E3CcwM helvetica-regular-normal-white-16px">Name</div>
+          <div class="rectangle-16-E3CcwM border-3px-white"></div>
+        </div>
+        <div class="group-286-ojnjpf">
+          <div class="email-os4OsA helvetica-regular-normal-white-16px">Email</div>
+          <div class="rectangle-71-os4OsA border-3px-white"></div>
+        </div>
+        <div class="group-285-ojnjpf">
+          <div class="message-HiaLNg helvetica-regular-normal-white-16px">Message</div>
+          <div class="rectangle-72-HiaLNg border-3px-white"></div>
+        </div>
+        <div class="rectangle-73-ojnjpf"></div>
+        <div class="info-ojnjpf">Info</div>
+        <div class="markpauliskragmailcom-ojnjpf helvetica-regular-normal-white-16px">markpauliskra@gmail.com</div>
+        <div class="x61-429-300-300-ojnjpf helvetica-regular-normal-white-16px">+61 429 300 300</div>
+        <div class="x27-banks-street-ojnjpf helvetica-regular-normal-white-16px">27 Banks Street</div>
+        <div class="x830-1730-ojnjpf helvetica-regular-normal-white-16px">8:30 - 17:30</div>
+        <div class="x313-311-3615-zoom-id-ojnjpf helvetica-regular-normal-white-16px">313 311 3615 (Zoom ID)</div>
+        <img class="contactzoom2x-ojnjpf" src="img/contactzoom-2x@1x.png" />
+        <img class="contacttime2x-ojnjpf" src="img/contacttime-2x@1x.png" />
+        <img class="contactaddress2x-ojnjpf" src="img/contactaddress-2x@1x.png" />
+        <img class="contactphone2x-ojnjpf" src="img/contactphone-2x@1x.png" />
+        <img class="contactemail2x-ojnjpf" src="img/contactemail-2x@1x.png" />
+      </div>
+      <img class="bannercontact2x-C61RwL" src="img/bannercontact-2x@1x.png" />
+      <div class="chevron-2x-11x-copy-C61RwL">
+        <img
+          width="100%"
+          height="100%"
+          src="https://anima-uploads.s3.amazonaws.com/projects/605b1d5c502207e542537d33/files/chevron-2x-1-1x-copy.gif"
+        />
+      </div>
+      <div class="group-377-C61RwL">
+        <a href="#rectangle-94" onclick="window.event.stopPropagation()">
+          <div class="component-11-1-lvXcn7 smart-layers-pointers">
+            <div class="about-ArwrqO helvetica-bold-eerie-black-61px">ABOUT</div>
+          </div></a
+        >
+        <a href="#rectangle-92" onclick="window.event.stopPropagation()">
+          <div class="component-9-1-lvXcn7">
+            <div class="skills-i5TwsK helvetica-bold-eerie-black-61px smart-layers-pointers">SKILLS</div>
+          </div></a
+        >
+        <a href="#rectangle-91" onclick="window.event.stopPropagation()">
+          <div class="component-8-1-lvXcn7">
+            <div class="projects-mHXe1n helvetica-bold-eerie-black-61px smart-layers-pointers">PROJECTS</div>
+          </div></a
+        >
+        <a href="#rectangle-93" onclick="window.event.stopPropagation()">
+          <div class="component-10-1-lvXcn7">
+            <div class="contact-mLDPhL helvetica-bold-eerie-black-61px smart-layers-pointers">CONTACT</div>
+          </div></a
+        >
+        <a href="#rectangle-95" onclick="window.event.stopPropagation()"
+          ><img class="mimainlogo2x-lvXcn7 smart-layers-pointers" src="img/mimainlogo-2x@1x.png"
+        /></a>
+      </div>
+    </div>
+  </body>
+</html>
